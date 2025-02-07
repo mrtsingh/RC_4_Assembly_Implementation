@@ -1,1 +1,2 @@
 # RC_4_Assembly_Implementation
+In this project the Rivest cipher stream cipher (RC-4) was implemented in assembly level language using both the standard instructions and psuedo instructions pertaining to RISC-V architecture using the RARS assembler. The project is a part of the other task whereby a complete and novel Secured Lightwieght Crypto MicroProcessor using RISC architecture would be developed and taped out. The keystream and psuedo random bit sequence geneartion algorithm are a bit modified according to the specific requirements.
